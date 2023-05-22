@@ -3,4 +3,4 @@ node_modules
 .vscode
 *.log
 .env
-/server.env.prod
+server/.env.prod
